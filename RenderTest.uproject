@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{038D599A-41B2-AE2F-6CEC-68BE3E2D9C57}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RenderTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
